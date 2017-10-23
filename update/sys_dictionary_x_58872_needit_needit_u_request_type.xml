@@ -3,6 +3,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="u_request_type" table="x_58872_needit_needit">
         <active>true</active>
         <array>false</array>
+        <array_denormalized>false</array_denormalized>
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
