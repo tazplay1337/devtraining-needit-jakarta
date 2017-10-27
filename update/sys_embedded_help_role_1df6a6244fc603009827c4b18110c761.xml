@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_58872_needit.admin" name="x_58872_needit.admin">68e6aa204fc603009827c4b18110c77c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-23 13:45:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1df6a6244fc603009827c4b18110c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>68e6aa204fc603009827c4b18110c77c</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1df6a6244fc603009827c4b18110c761</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-23 13:45:50</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
